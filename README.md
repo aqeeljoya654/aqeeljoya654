@@ -12,10 +12,9 @@
 
 
 ## 📂 Featured Projects  
-🔹 **[Fake News Detection (NLP, ML/DL)]()** – Classifying real vs fake news using TF-IDF, ML models, and a Keras Deep Learning model.  
-🔹 **[Global Energy Analysis]()** – EDA & visualization of worldwide energy consumption/production trends.  
-🔹 **[Stock Price Prediction (LSTM)]()** – Time series forecasting of stock prices using deep learning.  
-
+🔹 **[Fake News Detection (NLP, ML/DL)](https://github.com/aqeeljoya654/Fake-vs-Real-News-Classification)** – Classifying real vs fake news using TF-IDF, ML models, and a Keras Deep Learning model.  
+🔹 **[Global Energy Analysis](https://github.com/aqeeljoya654/global-energy-emissions-analysis)** – EDA & visualization of worldwide energy consumption/production trends.  
+🔹 **[Stock Price Prediction (LSTM)](https://github.com/aqeeljoya654/Stock-Price-Prediction-with-LSTMs)** – Time series forecasting of stock prices using deep learning.  
 
 ## 🌍 About Me  
 - 🔭 Currently building projects in **ML & DL**  
